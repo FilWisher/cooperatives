@@ -1,3 +1,3 @@
 # cooperatives
 
-www for cultural cooperatives
+www for cultural cooperatives, yeah!
