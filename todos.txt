@@ -9,8 +9,10 @@
     - desktop
 
 # current
+- layout for stories page
 
 # backlog
+- layout for what/why page
 - directory from csv (no formatting)
 - arrange buttons layout for desktop
 - arrange buttons layout for mobile
