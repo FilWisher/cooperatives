@@ -1,0 +1,52 @@
+* {
+  box-sizing: border-box;  
+}
+
+body {
+  background-color: #ecedee;
+}
+
+div.title {
+  width: 30%;
+  margin-right: 75%;
+}
+
+div.title img {
+  width: 100%;
+}
+
+div.menu  {
+  height: 20em;
+  width: 50%;
+  margin: auto;
+  position: relative;
+}
+
+div.menu img {
+  width: 30%;
+  position: absolute;
+}
+
+div.menu img.why {
+  top: 0; left: 25%;
+}
+
+div.menu img.what {
+  top: 5%; right: 10%;
+}
+
+div.menu img.resources {
+  top: 50%; right: 0;
+}
+
+div.menu img.contact {
+  bottom: 0; left: 50%;
+}
+
+div.menu img.stories {
+  bottom: 0; left: 10%;
+}
+
+div.menu img.directory {
+  top: 50%; left: 0;
+}
