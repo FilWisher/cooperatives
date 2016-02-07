@@ -1,0 +1,22 @@
+## todos
+
+# qs
+- what domain?
+- what data should be easily editable?
+- where is content?
+- what are layouts?
+    - mobile
+    - desktop
+
+# current
+
+# backlog
+- directory from csv (no formatting)
+- arrange buttons layout for desktop
+- arrange buttons layout for mobile
+- carousel of quotes
+
+# done
+- front page layout (gh-pages)
+
+# approved
