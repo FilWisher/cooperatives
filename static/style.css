@@ -7,12 +7,20 @@ body {
 }
 
 div.title {
-  width: 30%;
-  margin-right: 75%;
+  height: 30%;
 }
 
-div.title img {
-  width: 100%;
+div.title img.logo {
+  width: 30%;
+}
+
+div.title img.heading {
+  width: 15%;
+  margin-bottom: 2.5%;
+}
+
+div.title a {
+  text-decoration: none;
 }
 
 div.menu  {
@@ -49,4 +57,66 @@ div.menu img.stories {
 
 div.menu img.directory {
   top: 50%; left: 0;
+}
+
+div.content {
+  height: 70%;
+}
+
+div.content p.why {
+  width: 60%;
+  line-height: 1.5em;
+  font-weight: bold;
+  margin-left: 2%;
+  display: inline-block;
+}
+
+div.content div.video {
+  width: 40em;
+  height: 14em;
+  margin-left: 20%;
+  background-color: black;
+  display: inline-block;
+}
+
+div.arrows {
+  margin-left: 7.5%;
+  width: 20%;
+  display: inline-block;
+  height: 5em;
+  position: relative;
+  top: 50%;
+  -moz-transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+div.arrows img {
+  width: 50%;
+  float: right;
+}
+
+div.arrows img:nth-child(1) {
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+
+div.arrows img:nth-child(2) {
+  -webkit-transform: rotate(-90deg);
+  -moz-transform: rotate(-90deg);
+  transform: rotate(-90deg) translateY(70%);
+}
+
+div.navigation {
+  clear: both;
+  margin-bottom: 2%;
+  position: fixed;
+  bottom: 0;
+}
+
+div.navigation img {
+  display: inline-block;
+  width: 15%;
+  margin-left: 4%;
 }
