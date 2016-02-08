@@ -9,16 +9,17 @@
     - desktop
 
 # current
-- layout for stories page
 
 # backlog
-- layout for what/why page
 - directory from csv (no formatting)
-- arrange buttons layout for desktop
 - arrange buttons layout for mobile
 - carousel of quotes
+- wrap images in fixed width .card div
 
 # done
+- layout for stories page
+- arrange buttons layout for desktop
+- layout for what/why page
 - front page layout (gh-pages)
 
 # approved
