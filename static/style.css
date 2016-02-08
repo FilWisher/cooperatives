@@ -8,15 +8,16 @@ body {
 
 div.title {
   height: 30%;
+  margin-bottom: 2.5%;
 }
 
 div.title img.logo {
-  width: 30%;
+  width: 43%;
 }
 
 div.title img.heading {
   width: 15%;
-  margin-bottom: 2.5%;
+  margin-bottom: 1.3%;
 }
 
 div.title a {
