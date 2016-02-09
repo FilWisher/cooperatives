@@ -11,12 +11,23 @@
 # current
 
 # backlog
-- directory from csv (no formatting)
-- arrange buttons layout for mobile
-- carousel of quotes
 - wrap images in fixed width .card div
+- revise layouts for:
+    - why
+    - stories
+    - homepage
+    - directory
+- arrange buttons layout for mobile
+- directory from csv (no formatting)
+- carousel of quotes (?)
+- search functionality for directory page
+- content management:
+    - request data from gh (what format? how organized?)
+    - render dynamically
+    - make admin login allow experimentation
 
 # done
+- content for contact page
 - layout for stories page
 - arrange buttons layout for desktop
 - layout for what/why page

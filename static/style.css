@@ -4,6 +4,7 @@
 
 body {
   background-color: #ecedee;
+  padding: 0% 5%
 }
 div.title {
   height: 30%;
@@ -61,13 +62,13 @@ div.menu img.directory {
 
 div.content {
   height: 70%;
+  padding-left: 2.5%;
 }
 
 div.content p.why {
   width: 55%;
   line-height: 1.5em;
   font-weight: bold;
-  margin-left: 2.5%;
   display: inline-block;
 }
 
@@ -77,6 +78,20 @@ div.content div.video {
   margin-left: 20%;
   background-color: black;
   float: left;
+}
+
+div.content p.contact {
+  width: 55%;
+  line-height: 1.5em;
+  font-weight: bold;
+  display: inline-block;
+}
+
+div.content ul.contact {
+  padding-left: 0;
+  list-style: none;
+  font-weight: bold;
+  font-style: italic;
 }
 
 div.arrows {
