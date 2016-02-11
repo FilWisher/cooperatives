@@ -15,7 +15,7 @@
   
   <div class="content">
     
-    <p class="why">Cultural co-ops transform work creatively, economically, and politically. Creatively, co-ops question the myth of an individual genius and instead emphasize the collaborative qualities of any creative process. Economically, co-ops empower their members to decide on how they work together and to reduce insecurity through mutual solidarity. Politically, co-operatives challenge the boundaries between economy and politics, establishing the workplace and the larger economy as a democratic space, and helping to shape the future of work for the better.</p>
+    <p class="why" id="why">Cultural co-ops transform work creatively, economically, and politically. Creatively, co-ops question the myth of an individual genius and instead emphasize the collaborative qualities of any creative process. Economically, co-ops empower their members to decide on how they work together and to reduce insecurity through mutual solidarity. Politically, co-operatives challenge the boundaries between economy and politics, establishing the workplace and the larger economy as a democratic space, and helping to shape the future of work for the better.</p>
    
     <div class="arrows">
       <img src="http://i.imgur.com/0S8Kljo.png" alt="down">
@@ -48,6 +48,35 @@
     </a>
   </div>
     
-  
+  <script type="text/javascript">
+    function app() {
+      'use strict'
+
+      function get(url, cb) {
+        try {
+          var x = new XMLHttpRequest()
+          x.open('GET', url, 1)
+          x.onreadystatechange = function () {
+            x.readyState > 3 && cb && cb(x.responseText, x)
+          };
+          x.send()
+        } catch (e) {
+          window.console && console.log(e) 
+        }
+      }
+
+      function getContent(section) {
+        get('/content/'+section+'.txt', function (d) {
+          try {
+            document.querySelector("#" + section).textContent = d
+          } catch (e) {
+            window.console && console.log(e)
+          }
+        })
+      }
+      getContent('why')
+    }
+    app()
+  </script>
 </body>
 </html>
