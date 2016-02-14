@@ -1,9 +1,7 @@
 ## todos
 
 # qs
-- what domain?
 - what data should be easily editable?
-- where is content?
 - what are layouts?
     - mobile
     - desktop
@@ -11,22 +9,22 @@
 # current
 
 # backlog
-- wrap images in fixed width .card div
-- revise layouts for:
-    - why
-    - stories
-    - homepage
-    - directory
 - arrange buttons layout for mobile
-- directory from csv (no formatting)
 - carousel of quotes (?)
 - search functionality for directory page
 - content management:
     - request data from gh (what format? how organized?)
     - render dynamically
     - make admin login allow experimentation
+- directory from csv (no formatting)
+- revise layouts for directory
+- add event feed to homepage (?)
 
 # done
+- revise layouts for stories
+- revise layouts for homepage
+- revise layouts for why
+- wrap images in fixed width .card div
 - content for contact page
 - layout for stories page
 - arrange buttons layout for desktop
