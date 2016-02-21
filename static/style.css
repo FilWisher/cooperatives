@@ -168,6 +168,7 @@ div.coop-item {
   width: 30%;
   display: inline-block;
   font-size: 0.8em;
+  margin: 0 0 5px 5px;
   border: 1px solid #bbb;
 }
 
