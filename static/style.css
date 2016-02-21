@@ -152,3 +152,38 @@ div.navigation img {
 div.navigation a {
   text-decoration: none;
 }
+
+div.search {
+  display: inline-block;
+  margin-left: 5%;
+}
+
+div.search input {
+  height: 100%;
+  width: 100%;
+}
+
+div.coop-item {
+  height: 20em;
+  width: 30%;
+  display: inline-block;
+  font-size: 0.8em;
+  border: 1px solid #bbb;
+}
+
+div.coop-item .left {
+  float: left;
+  width: 50%;
+}
+
+div.coop-item .right {
+  margin: 0;
+  float: right;
+  width: 50%;
+}
+
+.coop-item p, div.coop-item a, div.coop-item h4 {
+  margin-top: 10px;
+  margin-left: 4px;
+}
+
