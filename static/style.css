@@ -184,7 +184,12 @@ div.coop-item .right {
 }
 
 .coop-item p, div.coop-item a, div.coop-item h4 {
+  word-wrap: break-word;
   margin-top: 10px;
   margin-left: 4px;
 }
 
+.coop-item .description {
+  height: 18em;
+  overflow-y: scroll;
+}
