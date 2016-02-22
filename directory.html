@@ -107,19 +107,20 @@ var cooperatives = [{"name":"Ceramics Studio Co-op","location":"London","sector"
       var old = document.querySelector('#search-results')
       if (old) old.remove()
      
-      var results = cooperatives.filter(function (item) {
-        return matchQuery(item.name, query)
-          || matchQuery(item.location, query)
-          || matchQuery(item.sector, query)
-      })
-      console.log(results) 
-     
-      var nodes = results.map(makeResult)
       var searchResults = document.createElement('div')
       searchResults.id = 'search-results'
-      nodes.forEach(function (node) {
-        searchResults.appendChild(node)
-      })
+      
+      cooperatives
+        .filter(function (item) {
+          return matchQuery(item.name, query)
+              || matchQuery(item.location, query)
+              || matchQuery(item.sector, query)
+        })
+        .map(makeResult)
+        .forEach(function (node) {
+          searchResults.appendChild(node)
+        })
+      
       content.appendChild(searchResults)
     }  
     updateResults()

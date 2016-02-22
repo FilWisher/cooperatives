@@ -7,22 +7,22 @@
     - desktop
 
 # current
-- put up holding page
 
 # backlog
-- search functionality for directory page
-- directory from csv (no formatting)
-- directory formatting
 - arrange buttons layout for mobile
 - carousel of quotes (?)
 - content management:
     - request data from gh (what format? how organized?)
     - render dynamically
     - make admin login allow experimentation
-- revise layouts for directory
 - add event feed to homepage (?)
 
 # done
+- directory from csv (no formatting)
+- directory formatting
+- revise layouts for directory
+- search functionality for directory page
+- put up holding page
 - revise layouts for stories
 - revise layouts for homepage
 - revise layouts for why
