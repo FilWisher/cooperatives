@@ -1,0 +1,15 @@
+Cultural co-ops transform work creatively, economically, and politically. Creatively, co-ops question the myth of an individual genius and instead emphasize the collaborative qualities of any creative process. Economically, co-ops empower their members to decide on how they work together and to reduce insecurity through mutual solidarity. Politically, co-operatives challenge the boundaries between economy and politics, establishing the workplace and the larger economy as a democratic space, and helping to shape the future of work for the better.
+
+---
+
+The cultural sector is notorious for the prevalence of precarious freelance work. In 2011 artistic, literary and media professions formed the largest group of freelance workers in the UK, accounting for 265,000 out of 1.56 million freelancers (Kitching and Smallbone 2012). A study about the early careers of 3,500 graduates in art, design, crafts and media studies subjects conducted by Ball, Pollard and Stanley (2010) between 2008 and 2010 confirms that close to half of the graduates in these subjects had engaged in freelance work in the first four to six years of their careers. 45 per cent reported that they had worked freelance after graduating (Ball, Pollard and Stanley 2010); and at the time of the study 48 per cent were engaged in portfolio working, often combining paid employment, self-employment and unpaid work (Ball, Pollard and Stanley 2010, 207).
+
+In this context, running or starting a cultural co-operative is an act of creative defiance: a refusal to accept persistent underpay, impossible deadlines, bullying, exploitation, individualism and competition as a necessary element of cultural work. Co-ops instead create a culture of mutual support, solidarity and co-operation.
+    
+They change the way we work in three ways: creatively, economically, and politically.
+
+Creatively, co-ops question the myth of an individual genius and instead emphasize the collaborative qualities of any creative process. No one can create in isolation. Ideas grow through being shared - the more open, inclusive and co-operative our culture is, the richer it becomes. 
+
+Economically, many cultural workers are willing to sacrifice income security and accept precarious working conditions in order to work in the cultural sector. But loving one's work should never mean not getting paid for it. Co-ops empower their members to decide on how they work together and to reduce insecurity through mutual solidarity. Co-operation between co-operatives creates the potential for a movement that can campaign for bigger changes in order to improve working condition in the cultural sector more generally, and transition to a more equal, democratic, sustainable economy at large.
+
+Politically, co-operatives challenge the boundaries between economy and politics, establishing the workplace and the larger economy as a democratic space, both in terms of decision-making power and access to resources. By working together in order to create a co-operative movement, co-ops can begin a discussion about the future of work and begin raising political demands to make it happen.
