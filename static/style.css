@@ -4,7 +4,7 @@
 
 body {
   background-color: #ecedee;
-  padding: 0% 5%
+  padding: 0% 2%
 }
 
 div.title {
@@ -13,7 +13,11 @@ div.title {
 }
 
 div.title img.logo {
-  width: 25em;
+  width: 20em;
+}
+
+div.title img.logo#cultural-cooperatives {
+  width: 30em;
 }
 
 div.title a {
@@ -21,12 +25,16 @@ div.title a {
 }
 
 div.card {
-  width: 12em;
+  width: 10em;
   display: inline-block;
 }
 
 div.card img {
   width: 100%;
+}
+
+div.card img.heading {
+  width: 90%;
 }
 
 div.menu  {
@@ -65,7 +73,7 @@ div.menu div.card:nth-child(6) {
 }
 
 div.content {
-  height: 20em;
+  height: 25em;
   padding-left: 2.5%;
   overflow-y: scroll;
 }
@@ -138,17 +146,65 @@ div.navigation {
   margin-bottom: 0.5%;
   position: fixed;
   bottom: 0;
+  display: flex;
+  width: 90%;
+  max-height: 10%;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
 }
 
 div.navigation div.card {
+  width: 17%;
+  max-width: 10em;
   margin-left: 1em;
 }
 
 div.navigation img {
-  display: inline-block;
   margin-left: 4%;
 }
 
 div.navigation a {
   text-decoration: none;
+}
+
+div.search {
+  display: inline-block;
+  margin-left: 5%;
+}
+
+div.search input {
+  height: 100%;
+  width: 100%;
+}
+
+div.coop-item {
+  height: 20em;
+  width: 30%;
+  display: inline-block;
+  font-size: 0.8em;
+  margin: 0 0 5px 5px;
+  border: 1px solid #bbb;
+}
+
+div.coop-item .left {
+  float: left;
+  width: 50%;
+}
+
+div.coop-item .right {
+  margin: 0;
+  float: right;
+  width: 50%;
+}
+
+.coop-item p, div.coop-item a, div.coop-item h4 {
+  word-wrap: break-word;
+  margin-top: 10px;
+  margin-left: 4px;
+}
+
+.coop-item .description {
+  height: 18em;
+  overflow-y: scroll;
 }
