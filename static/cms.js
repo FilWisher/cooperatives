@@ -22,7 +22,9 @@ function app(section) {
   }
 
   function getContent() {
-    get('/content/'+section+'.md', function (d) {
+  
+  
+    get('https://raw.githubusercontent.com/FilWisher/cooperatives/gh-pages/content/'+ section + '.md', function (d) {
       try {
         document.querySelector("#" + section).innerHTML = marked(d, {renderer:renderer})
       } catch (e) {
