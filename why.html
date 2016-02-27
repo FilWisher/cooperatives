@@ -50,44 +50,9 @@
   </div>
     
   <script type="text/javascript" src="static/marked.min.js"></script>
+  <script type="text/javascript" src="static/cms.js"></script>
   <script type="text/javascript">
-    function app() {
-      
-      
-      'use strict'
-      
-      var renderer = new marked.Renderer()
-      renderer.hr = function (text, level) {
-        return '<div class="line">'
-          + '<img src="http://i.imgur.com/5CNWqYr.png" alt="line" class="line">'
-          + '</div>'
-      }
-
-      function get(url, cb) {
-        try {
-          var x = new XMLHttpRequest()
-          x.open('GET', url, 1)
-          x.onreadystatechange = function () {
-            x.readyState > 3 && cb && cb(x.responseText, x)
-          };
-          x.send()
-        } catch (e) {
-          window.console && console.log(e) 
-        }
-      }
-
-      function getContent(section) {
-        get('/content/'+section+'.md', function (d) {
-          try {
-            document.querySelector("#" + section).innerHTML = marked(d, {renderer:renderer})
-          } catch (e) {
-            window.console && console.log(e)
-          }
-        })
-      }
-      getContent('why')
-    }
-    app()
+    app("why")
   </script>
 </body>
 </html>
