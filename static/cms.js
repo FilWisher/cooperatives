@@ -3,9 +3,16 @@ function app(section) {
   
   var renderer = new marked.Renderer()
   renderer.hr = function (text, level) {
-    return '<div class="line">'
+    return '<br><div class="line">'
       + '<img src="http://i.imgur.com/5CNWqYr.png" alt="line" class="line">'
       + '</div>'
+  }
+  renderer.link = function (href, title, text) {
+    var id = text.split('vimeo.com/')[1]
+    return '<iframe src="https://player.vimeo.com/video/' + id
+      + '" width="500" height="281" frameborder="0"'
+      + 'webkitallowfullscreen mozallowfullscreen'
+      + 'allowfullscreen></iframe>'
   }
 
   function get(url, cb) {
@@ -23,8 +30,8 @@ function app(section) {
 
   function getContent() {
   
-  
     get('https://raw.githubusercontent.com/FilWisher/cooperatives/gh-pages/content/'+ section + '.md', function (d) {
+      console.log(d)
       try {
         document.querySelector("#" + section).innerHTML = marked(d, {renderer:renderer})
       } catch (e) {
