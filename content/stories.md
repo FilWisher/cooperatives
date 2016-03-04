@@ -1,11 +1,21 @@
 <!-- 
-To add a new story, write:
+Stories should be formatted as follows:
 
 ### Cooperative Name
+<BLANK LINE>
+One paragraph of description
+<BLANK LINE>
+> Link to video on vimeo (i.e https://vimeo.com/156875935)
+<BLANK LINE>
 
-Description of of cooperative
+---
 
-Video url of vimeo
+### Cooperative Name
+<BLANK LINE>
+One paragraph of description
+<BLANK LINE>
+> Link to video on vimeo (i.e https://vimeo.com/156875935)
+<BLANK LINE>
 
 -->
 
@@ -14,7 +24,6 @@ Video url of vimeo
 Ceramics Studio Co-op is an artist-run purpose designed ceramics and sculpture workshop based in New Cross, London. This video is part of a series exploring how co-operatives operate in the cultural industries.
 
 > https://vimeo.com/156875935
-
 
 ---
 
