@@ -1,5 +1,6 @@
 * {
   box-sizing: border-box;  
+  font-family: Consolas, monospace;
 }
 
 body {
@@ -35,6 +36,7 @@ div.card img {
 
 div.card img.heading {
   width: 90%;
+  margin-bottom: 5%;
 }
 
 div.menu  {
@@ -81,7 +83,6 @@ div.content {
 div.content.cms p {
   width: 55%;
   line-height: 1.5em;
-  font-weight: bold;
   display: inline-block;
 }
 
@@ -142,20 +143,20 @@ div.line img.line {
 }
 
 div.navigation {
+  background-color: inherit;
+  height: auto;
   clear: both;
-  margin-bottom: 0.5%;
   position: fixed;
   bottom: 0;
   display: flex;
   width: 90%;
-  max-height: 10%;
   flex-direction: row;
   justify-content: space-around;
   align-items: center;
 }
 
 div.navigation div.card {
-  width: 17%;
+  width: 12%;
   max-width: 10em;
   margin-left: 1em;
 }
@@ -171,6 +172,8 @@ div.navigation a {
 div.search {
   display: inline-block;
   margin-left: 5%;
+  height: 2em;
+  width: 14em;
 }
 
 div.search input {
