@@ -113,7 +113,6 @@ div.content div.video iframe {
 div.content p.contact {
   width: 55%;
   line-height: 1.5em;
-  font-weight: bold;
   display: inline-block;
 }
 
@@ -150,6 +149,7 @@ div.navigation {
   bottom: 0;
   display: flex;
   width: 90%;
+  padding-top: 1%;
   flex-direction: row;
   justify-content: space-around;
   align-items: center;
@@ -163,6 +163,10 @@ div.navigation div.card {
 
 div.navigation img {
   margin-left: 4%;
+}
+
+div.card a[href$='why'] img {
+  width: 80%;
 }
 
 div.navigation a {
