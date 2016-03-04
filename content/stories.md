@@ -13,7 +13,7 @@ Video url of vimeo
 
 This website aims to support the formation of a political movement of cultural co-ops. Its purpose is to amplify the sector by building a directory of cultural co-ops in the UK, as well as publishing research, stories, and information about cultural co-operatives.
 
-[https://vimeo.com/156875935](video)
+> https://vimeo.com/156875935
 
 ---
 
@@ -21,4 +21,4 @@ This website aims to support the formation of a political movement of cultural c
 
 This website aims to support the formation of a political movement of cultural co-ops. Its purpose is to amplify the sector by building a directory of cultural co-ops in the UK, as well as publishing research, stories, and information about cultural co-operatives.
 
-[https://vimeo.com/156875935](video)
+> https://vimeo.com/156875935

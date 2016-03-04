@@ -1,4 +1,4 @@
-This website aims to support the formation of a political movement of cultural co- ops. Its purpose is to encourage collaboration, mutual support and solidarity within the sector by building a directory of cultural co-ops in the UK, as well as publishing research, stories and information about cultural co-operatives. 
+This website aims to support the formation of a political movement of cultural co-ops. Its purpose is to encourage collaboration, mutual support and solidarity within the sector by building a directory of cultural co-ops in the UK, as well as publishing research, stories and information about cultural co-operatives. 
 
 ---
 

@@ -7,7 +7,7 @@ function app(section) {
       + '<img src="http://i.imgur.com/5CNWqYr.png" alt="line" class="line">'
       + '</div>'
   }
-  renderer.link = function (href, title, text) {
+  renderer.blockquote = function (text) {
     var id = text.split('vimeo.com/')[1]
     return '<iframe src="https://player.vimeo.com/video/' + id
       + '" width="500" height="281" frameborder="0"'
