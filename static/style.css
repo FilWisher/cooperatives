@@ -235,3 +235,46 @@ div.coop-item .right {
   height: 18em;
   overflow-y: scroll;
 }
+
+.tremble {
+  animation-duration: 0.12s;
+  animation-direction: reverse;
+  animation-iteration-count: 10;
+}
+
+.tremble1 {
+  animation-name: tr1;
+}
+.tremble2 {
+  animation-name: tr2;
+}
+.tremble3 {
+  animation-name: tr3;
+}
+
+@keyframes tr1 {
+  0% {
+    transform: translate(-3px, 3px);
+  }
+  50% {
+    transform: translate(-3px, -3px);
+  }
+}
+
+@keyframes tr2 {
+  0% {
+    transform: translate(3px, 3px);
+  }
+  50% {
+    transform: translate(3px, -3px);
+  }
+}
+
+@keyframes tr3 {
+  0% {
+    transform: translate(3px, -3px);
+  }
+  50% {
+    transform: translate(3px, 3px);
+  }
+}
