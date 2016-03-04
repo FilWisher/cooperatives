@@ -3,7 +3,7 @@ function app(section) {
   
   var renderer = new marked.Renderer()
   renderer.hr = function (text, level) {
-    return '<br><div class="line">'
+    return '<div class="line">'
       + '<img src="http://i.imgur.com/5CNWqYr.png" alt="line" class="line">'
       + '</div>'
   }

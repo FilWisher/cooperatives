@@ -26,7 +26,7 @@ div.title a {
 }
 
 div.card {
-  width: 10em;
+  width: 13em;
   display: inline-block;
 }
 
@@ -39,9 +39,17 @@ div.card img.heading {
   margin-bottom: 10%;
 }
 
+div.card img.heading.news {
+  width: 50%;
+}
+
+div.card img.heading.why {
+  width: 50%;
+}
+
 div.menu  {
-  height: 17em;
-  width: 27em;
+  height: 21em;
+  width: 33em;
   margin: auto;
   position: relative;
 }
@@ -50,7 +58,7 @@ div.menu div.card {
   position: absolute;
 }
 div.card a[href$='news'] img {
-  width: 58%;
+  width: 50%;
 }
 
 div.menu div:nth-child(1) {
@@ -91,14 +99,13 @@ div.content {
 div.content.cms p {
   width: 50%;
   line-height: 1.5em;
-  display: inline-block;
 }
 
 div.content div#stories p {
   margin: 0;
   float: left;
   width: 40%;
-  margin-right: 6%;
+  margin-right: 10%;
 }
 
 div.content div#stories div.text h3 {
@@ -110,6 +117,10 @@ div.content div#stories div.video {
   width: 30em;
   height: 17em;
   float: left;
+}
+
+div.content div#stories div.line img {
+  visibility: hidden;
 }
 
 div.content div#stories div.video iframe.video {
