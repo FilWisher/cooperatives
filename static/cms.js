@@ -9,10 +9,10 @@ function app(section) {
   }
   renderer.blockquote = function (text) {
     var id = text.split('vimeo.com/')[1]
-    return '<iframe src="https://player.vimeo.com/video/' + id
+    return '<div class="video"><iframe class="video" src="https://player.vimeo.com/video/' + id
       + '" width="500" height="281" frameborder="0"'
       + 'webkitallowfullscreen mozallowfullscreen'
-      + 'allowfullscreen></iframe>'
+      + 'allowfullscreen></iframe></div>'
   }
 
   function get(url, cb) {
