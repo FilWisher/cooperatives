@@ -50,7 +50,7 @@ div.menu div.card {
   position: absolute;
 }
 div.card a[href$='news'] img {
-  width: 56%;
+  width: 58%;
 }
 
 div.menu div:nth-child(1) {
