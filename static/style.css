@@ -157,7 +157,7 @@ div.line img.line {
   width: 50%;
   margin-top: 3em;
   margin-bottom: 1em;
-  height: 2em;
+  height: 1.5em;
 }
 
 div.navigation {
@@ -185,7 +185,7 @@ div.navigation img {
 }
 
 div.card a[href$='why'] img {
-  width: 80%;
+  width: 70%;
 }
 
 div.navigation a {
@@ -233,47 +233,4 @@ div.coop-item .right {
 .coop-item .description {
   height: 18em;
   overflow-y: scroll;
-}
-
-.tremble {
-  animation-duration: 0.12s;
-  animation-direction: reverse;
-  animation-iteration-count: 10;
-}
-
-.tremble1 {
-  animation-name: tr1;
-}
-.tremble2 {
-  animation-name: tr2;
-}
-.tremble3 {
-  animation-name: tr3;
-}
-
-@keyframes tr1 {
-  0% {
-    transform: translate(-3px, 3px);
-  }
-  50% {
-    transform: translate(-3px, -3px);
-  }
-}
-
-@keyframes tr2 {
-  0% {
-    transform: translate(3px, 3px);
-  }
-  50% {
-    transform: translate(3px, -3px);
-  }
-}
-
-@keyframes tr3 {
-  0% {
-    transform: translate(3px, -3px);
-  }
-  50% {
-    transform: translate(3px, 3px);
-  }
 }
