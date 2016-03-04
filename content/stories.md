@@ -1,7 +1,7 @@
 <!-- 
 Stories should be formatted as follows:
 
-### Cooperative Name
+### Name of Cooperative
 <BLANK LINE>
 One paragraph of description
 <BLANK LINE>
@@ -10,13 +10,14 @@ One paragraph of description
 
 ---
 
-### Cooperative Name
+### Name of Cooperative
 <BLANK LINE>
 One paragraph of description
 <BLANK LINE>
 > Link to video on vimeo (i.e https://vimeo.com/156875935)
 <BLANK LINE>
 
+--------------------------   ADD STORIES BELOW ---------------------------
 -->
 
 ### Ceramics Studio Co-op
