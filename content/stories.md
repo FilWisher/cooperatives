@@ -22,7 +22,7 @@ One paragraph of description
 
 ### Ceramics Studio Co-op
 
-[Ceramics Studio Co-op](http://www.ceramicsstudio.coop)is an artist-run purpose designed ceramics and sculpture workshop based in New Cross, London. This video is part of a series exploring how co-operatives operate in the cultural industries.  
+[Ceramics Studio Co-op](http://www.ceramicsstudio.coop) is an artist-run purpose designed ceramics and sculpture workshop based in New Cross, London. This video is part of a series exploring how co-operatives operate in the cultural industries.  
 
 > https://vimeo.com/156875935
 
