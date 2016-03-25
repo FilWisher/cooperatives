@@ -1,4 +1,20 @@
-This website aims to support the formation of a political movement of cultural co-ops. It wants to encourage collaboration, mutual support and solidarity within the sector by building a directory of cultural co-ops in the UK, as well as publishing research, stories and information about cultural co-operatives. 
+Welcome to cultural.coop! 
+
+Co-operatives are all about collaborating and working together, both within co-ops and beyond. But often it is hard to find the time or motivation to start searching for other co-ops, reaching out to them and beginning to co-operate and support each other.
+
+This website aims to help. The idea is to encourage collaboration, mutual support and solidarity among cultural co-ops. 
+
+More than that, cultural.coop provides information about the co-operative model for anyone looking for alternatives to often individualised, precarious and exhausting working lives in the cultural sector. 
+
+So, if you want to find out more about cultural co-ops and how they work, click on the STORIES section of the website, where you will find short videos introducing some co-ops working in the cultural sector. 
+
+Still not sure why the co-operative model is a good idea?  You might find some answers under WHY and RESOURCES. 
+
+If you want to find out about cultural co-ops working in your area or in a particular part of the cultural sector, go to our DIRECTORY. It is still growing, so if you know of any co-op that should be included, please let us know. 
+
+Email us if you want to contribute, let us know what you think or just say hi.
+
+Follow us on twitter for regular updates.
 
 ---
 
