@@ -104,7 +104,7 @@ div.content div#stories p {
   margin: 0;
   float: left;
   width: 40%;
-  margin-right: 10%;
+  emargin-right: 10%;
 }
 
 div.content div#stories div.text h3 {
@@ -116,6 +116,7 @@ div.content div#stories div.video {
   width: 30em;
   height: 17em;
   float: left;
+  margin-left: 2%;
 }
 
 div.content div#stories div.line img {
