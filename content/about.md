@@ -6,15 +6,15 @@ This website aims to help. The idea is to encourage collaboration, mutual suppor
 
 More than that, cultural.coop provides information about the co-operative model for anyone looking for alternatives to often individualised, precarious and exhausting working lives in the cultural sector. 
 
-So, if you want to find out more about cultural co-ops and how they work, click on the STORIES section of the website, where you will find short videos introducing some co-ops working in the cultural sector. 
+So, if you want to find out more about cultural co-ops and how they work, click on the [STORIES](http://cultural.coop/stories) section of the website, where you will find short videos introducing some co-ops working in the cultural sector. 
 
-Still not sure why the co-operative model is a good idea?  You might find some answers under WHY and RESOURCES. 
+Still not sure why the co-operative model is a good idea?  You might find some answers under [WHY](http://cultural.coop/why) and [RESOURCES](http://cultural.coop/resources). 
 
-If you want to find out about cultural co-ops working in your area or in a particular part of the cultural sector, go to our DIRECTORY. It is still growing, so if you know of any co-op that should be included, please let us know. 
+If you want to find out about cultural co-ops working in your area or in a particular part of the cultural sector, go to our [DIRECTORY](http://cultural.coop/directory). It is still growing, so if you know of any co-op that should be included, please let us know. 
 
-Email us if you want to contribute, let us know what you think or just say hi.
+[Email](http://cultural.coop/contact) us if you want to contribute, let us know what you think or just say hi.
 
-Follow us on twitter for regular updates.
+Follow us on [twitter](https://twitter.com/CulturalCoops) for regular updates.
 
 ---
 
