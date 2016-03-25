@@ -3,7 +3,7 @@
 www for cultural cooperatives, yeah!
 
 ## who
-[Marisol Sandovan](https://www.city.ac.uk/people/academics/marisol-sandoval), [AltGen](http://www.altgen.org.uk/), and [Blake House](http://blake.house/) are creating an online space to encourage collaboration and solidarity within the cultural co-operative movement.
+[Marisol Sandoval](https://www.city.ac.uk/people/academics/marisol-sandoval), [AltGen](http://www.altgen.org.uk/), and [Blake House](http://blake.house/) are creating an online space to encourage collaboration and solidarity within the cultural co-operative movement.
 
 ## why
 Freelance work is precarious but standard employment is competitive and often exploitative. Co-operation offers a way out.
