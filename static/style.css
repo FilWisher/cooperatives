@@ -104,19 +104,26 @@ div.content div#stories p {
   margin: 0;
   float: left;
   width: 40%;
-  emargin-right: 10%;
 }
 
 div.content div#stories div.text h3 {
   font-style: italic; 
   margin: 0 0 0.5em 0;
+  width: 40%
+}
+
+div.content div#stories div.video-container {
+  width: 60%;
+  float: left;
+  top: -2.5em;
+  position: relative;
 }
 
 div.content div#stories div.video {
   width: 30em;
   height: 17em;
-  float: left;
   margin-left: 2%;
+  margin-right: 18%;
 }
 
 div.content div#stories div.line img {
