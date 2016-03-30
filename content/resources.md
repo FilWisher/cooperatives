@@ -1,4 +1,4 @@
-**Groups and Campaigns**
+## Reports and Research
 
 [Precarity Pilot](http://precaritypilot.net/)
 
@@ -30,7 +30,7 @@
 
 [Interns Anonymous](http://www.internsanonymous.co.uk)
 
-**Reports and Research**
+## Reports and Research
 
 [Robin Murray. Co-operation in the Age of Google (by Robin Murray)](https://www.uk.coop/sites/default/files/uploads/attachments/co-operation_in_the_age_of_google.pdf)
 
