@@ -8,6 +8,14 @@ body {
   padding: 0% 2%
 }
 
+a {
+  color: #000;
+}
+
+a:hover {
+  color: #555
+}
+
 div.title {
   height: 30%;
 }
@@ -142,7 +150,6 @@ div.content div#stories div.video iframe.video {
 }
 
 div.content p.contact {
-  width: 55%;
   line-height: 1.5em;
   display: inline-block;
 }
@@ -199,6 +206,10 @@ div.navigation img {
 
 div.card a[href$='why'] img {
   width: 70%;
+}
+
+div.card img.heading.about {
+  width: 75%;
 }
 
 div.navigation a {

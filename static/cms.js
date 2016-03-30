@@ -33,6 +33,8 @@ function app(section) {
       console.log(d)
       try {
         document.querySelector("#" + section).innerHTML = marked(d, {renderer:renderer})
+        var x = document.querySelector('#' + section) 
+        console.log(x)
       } catch (e) {
         window.console && console.log(e)
       }
