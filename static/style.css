@@ -206,8 +206,7 @@ div.navigation a {
 }
 
 div.search {
-  display: inline-block;
-  margin-left: 5%;
+  margin-left: 1.6%;
   height: 2em;
   width: 14em;
 }
@@ -217,33 +216,44 @@ div.search input {
   width: 100%;
 }
 
+
 div.coop-item {
-  height: 20em;
-  width: 30%;
+  height: 21em;
+  width: 45%;
+  padding: 1.5em;
   display: inline-block;
   font-size: 0.8em;
   margin: 0 0 5px 5px;
   border: 1px solid #bbb;
 }
 
-div.coop-item .left {
+div.coop-item .top {
   float: left;
-  width: 50%;
+  width: 100%;
 }
 
-div.coop-item .right {
+div.coop-item .bottom {
   margin: 0;
-  float: right;
-  width: 50%;
+  float: left;
+  width: 100%;
 }
 
+.coop-item .name, div.coop-item .location {
+  display: inline-block;
+}
+
+.coop-item .website {
+  display: block;
+  text-decoration: none;
+  color: red;
+}
 .coop-item p, div.coop-item a, div.coop-item h4 {
   word-wrap: break-word;
-  margin-top: 10px;
-  margin-left: 4px;
+  margin: 0;
 }
 
 .coop-item .description {
-  height: 18em;
+  height: 13.5em;
   overflow-y: scroll;
+  margin-top: 1.5em;
 }

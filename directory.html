@@ -69,14 +69,13 @@
     function makeResult(res) {
       var result = document.createElement('div')
       result.className = 'coop-item'
-      result.innerHTML = '<div class="left">'
+      result.innerHTML = '<div class="top">'
         + '<h4 class="name">' + unescape(res.name) + '</h4>'
-        + '<p class="location">' + res.location + '</p>'
+        + '<p class="location">&nbsp;/ ' + res.location + '</p>'
         + '<a href="' + res.website
         + '" class="website">' + res.website + '</a>'
-        + '<p class="sector">' + unescape(res.sector) + '</p>'
       +'</div>'
-      + '<div class="right">'
+      + '<div class="bottom">'
         + '<p class="description">' + unescape(res.description) + '</p>'
       + '</div>'
       
