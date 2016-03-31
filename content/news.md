@@ -1,6 +1,5 @@
-**01.04.16**
-
-**cultural.coop goes live!**
+#####01.04.16
+#####cultural.coop goes live!
 
 Co-operatives are all about collaborating and working together, both within co-ops and beyond. But often it is hard to find the time or energy to start searching for other co-ops, reaching out to them and beginning to co-operate and support each other.
 
