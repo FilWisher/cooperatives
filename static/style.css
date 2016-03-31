@@ -128,8 +128,8 @@ div.news h4 {
 
 div.news div#news p {
   font-style: italic; 
-  margin: 1em 0 0 0;
-  padding-right: 2%;
+  margin: 1em 0;
+  padding-right: 1em;
 }
 
 div.content div#stories p {
