@@ -108,6 +108,30 @@ div.content.cms p {
   line-height: 1.5em;
 }
 
+div.news {
+  display: flex;
+  justify-content: space-around;
+}
+
+div.news div {
+  width: 50%;
+  font-size: 0.9em;
+}
+
+div.news div#feed {
+  padding-left: 2%;
+}
+
+div.news h4 {
+  margin: 0;
+}
+
+div.news div#news p {
+  font-style: italic; 
+  margin: 1em 0 0 0;
+  padding-right: 2%;
+}
+
 div.content div#stories p {
   margin: 0;
   float: left;
