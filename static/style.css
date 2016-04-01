@@ -15,11 +15,10 @@ a {
 a:hover {
   color: #555
 }
-
 div.title {
-  height: 30%;
+  height: 21%;
+  min-height: 10em;
 }
-
 div.title img.logo {
   width: 20em;
 }
@@ -95,10 +94,13 @@ div.menu div.card:nth-child(6) {
 div.menu div.card:nth-child(7) {
   top: 30%; left: -5%;
 }
+body {
+  height: 100vh;
+  margin: 0;
+}
 
 div.content {
-  padding-top: 1em;
-  height: 25em;
+  height: 60%;
   padding-left: 1.6%;
   overflow-y: scroll;
 }
@@ -207,7 +209,7 @@ div.line img.line {
 
 div.navigation {
   background-color: inherit;
-  height: auto;
+  height: 10%;
   clear: both;
   position: fixed;
   bottom: 0;
