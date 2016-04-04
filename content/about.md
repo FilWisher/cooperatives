@@ -22,4 +22,4 @@ This project is the result of a collaboration between [Marisol Sandoval](https:/
 
 [marisol.sandoval.1(@)city.ac.uk](mailto:marisol.sandoval@city.ac.uk)
 
-Thanks to City University London for the financial support for this project.
+Thanks to City University London for the financial support that helped starting this project.
