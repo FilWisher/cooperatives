@@ -118,7 +118,7 @@ div.news {
 div.news div#news {
   overflow-y: scroll;
   max-height: 30em;
-  padding-top: 2em;
+  padding-top: 2.5%;
   padding-bottom: 2em;
 }
 
