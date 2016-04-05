@@ -3,7 +3,7 @@ function app(section) {
   
   var renderer = new marked.Renderer()
   renderer.hr = function (text, level) {
-    return ''
+    return '<p class="line">------------------------------------------------------</p>'
   }
   
   renderer.blockquote = function (text) {
