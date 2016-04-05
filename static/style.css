@@ -134,12 +134,13 @@ div.news div {
 
 div.news div#feed {
   margin: auto;
+  padding-top: 2%;
 }
 
 div#feed-container {
-  padding-top: 4%;
   width: 60%;
   margin: auto;
+  border: 3px solid black;
 }
 
 div.news h4 {
