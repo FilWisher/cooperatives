@@ -53,7 +53,12 @@ div.card img.heading.why {
   width: 50%;
 }
 
+div.content.home {
+  height: 70%;
+}
+
 div.menu  {
+  top: 20%;
   height: 21em;
   width: 33em;
   margin: auto;
