@@ -1,5 +1,11 @@
+<!--
+1. You will need to upload the image somewhere. I have been upload images onto http://imgur.com.
+2. Once it is uploaded, there are a few links imgur provide you to the image. 
+3. Copy the 'Direct Link' one
+4. Paste it like this into the post ![img](http://i.imgur.com/ZsGBONc.png)
+-->
 
-
+![img](http://i.imgur.com/ZsGBONc.png)
 #### 05.04.16
 #### cultural.coop goes live!
 
