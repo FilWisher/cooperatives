@@ -8,7 +8,8 @@ function app(section) {
   
   renderer.blockquote = function (text) {
     var id = text.split('vimeo.com/')[1]
-    return '<div class="video-container"><div class="video"><iframe class="video" src="https://player.vimeo.com/video/' + id
+    return '<div class="video-container"><div class="video"><iframe class="video" src="https://player.vimeo.com/video/' + id 
+      + '?title=0&byline=0&portrait=0' + 
       + '" width="500" height="281" frameborder="0"'
       + 'webkitallowfullscreen mozallowfullscreen'
       + 'allowfullscreen></iframe></div></div>'
