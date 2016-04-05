@@ -1,7 +1,5 @@
 The cultural sector is notorious for the prevalence of precarious and individualised freelance work. In this context, running or starting a cultural co-operative can be a powerful political act: a refusal to accept persistent underpay, impossible deadlines, bullying, exploitation, individualism and competition as a necessary element of cultural work. Co-ops instead create a culture of mutual support, solidarity and co-operation.
 
----
-
 Co-operatives are a different way of working. They are organisations owned and run by the workers themselves. Unlike corporations, co-ops have neither shareholders, nor single owners, nor a hierarchical chain of command running from chief executive down to employee. And unlike freelancing, co-ops normally involve working collaboratively with a consistent group of co-workers.
 
 The co-operative model is a way to overcome the crumby working conditions all too prevalent in present day cultural industries. In sectors where competition is fierce, hours are long, wages are relatively low, and unions have little presence, there is an urgent need for solidarity. Co-ops are a proven model that fulfils precisely this role. They show the possibility of a real alternative – one based on common ownership and economic democracy.

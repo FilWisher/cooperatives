@@ -16,8 +16,8 @@ If you want to find out about cultural co-ops working in your area or in a parti
 
 Follow us on [twitter](https://twitter.com/CulturalCoops) for regular updates.
 
----
-
 This project is the result of a collaboration between [Marisol Sandoval](https://www.city.ac.uk/people/academics/marisol-sandoval), lecturer at City University London who researches the politics of cultural co-ops, and the co-operatives [Altgen](http://www.altgen.org.uk/) and [Blake House](http://blake.house/). Get in touch if you want to get involved in building a movement for a co-operative future. Let us know if you: (a) know of a cultural co-op that should be included in our directory, (b) want to connect to other cultural co-ops or share events, resources, research, reflections and stories from the world of cultural co-ops, or (c) have anything else to say!
 
 [marisol.sandoval.1(@)city.ac.uk](mailto:marisol.sandoval@city.ac.uk)
+
+Thanks to City University London for the financial support that helped starting this project.

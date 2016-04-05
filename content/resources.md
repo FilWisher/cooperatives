@@ -1,4 +1,4 @@
-## Relevant initiatives
+### Relevant initiatives
 
 [Altgen](http://altgen.org.uk/)
 
@@ -35,10 +35,13 @@
 
 
 
+\----------------------------------------------------------------------------------------------
 
-## Reports and Research
 
-[Robin Murray. Co-operation in the Age of Google (by Robin Murray)](https://www.uk.coop/sites/default/files/uploads/attachments/co-operation_in_the_age_of_google.pdf)
+
+### Reports and Research
+
+[Robin Murray. Co-operation in the Age of Google](https://www.uk.coop/sites/default/files/uploads/attachments/co-operation_in_the_age_of_google.pdf)
 
 [Radical Routes. 2015. How to set up a Workers’ Co-op](http://www.radicalroutes.org.uk/publicdownloads/setupaworkerscoop-lowres.pdf)
 
