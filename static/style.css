@@ -133,11 +133,12 @@ div.news div {
 }
 
 div.news div#feed {
-  padding-left: 5%;
+  margin: auto;
 }
 
-iframe > body > div > div.timeline-Header {
-  background-color: black;
+div#feed-container {
+  width: 60%;
+  margin: auto;
 }
 
 div.news h4 {
