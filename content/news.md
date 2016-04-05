@@ -5,7 +5,6 @@
 4. Paste it like this into the post ![img](http://i.imgur.com/ZsGBONc.png)
 -->
 
-![img](http://i.imgur.com/ZsGBONc.png)
 #### 05.04.16
 #### cultural.coop goes live!
 
