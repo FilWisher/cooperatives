@@ -137,6 +137,7 @@ div.news div#feed {
 }
 
 div#feed-container {
+  padding-top: 4%;
   width: 60%;
   margin: auto;
 }
@@ -199,14 +200,6 @@ div.content ul.contact {
   list-style: none;
   font-weight: bold;
   font-style: italic;
-}
-
-p.line {
-  
-}
-
-div.line p {
-  width: 0.5em;
 }
 
 div.navigation {
