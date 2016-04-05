@@ -7,12 +7,13 @@ function app(section) {
   }
   
   renderer.blockquote = function (text) {
-    var id = text.split('vimeo.com/')[1]
-    return '<div class="video-container"><div class="video"><iframe class="video" src="https://player.vimeo.com/video/' + id 
+    var id = text.split('vimeo.com/')[1].split('">')[0]
+    var url = '<div class="video-container"><div class="video"><iframe class="video" src="https://player.vimeo.com/video/' + id 
       + '?title=0&byline=0&portrait=0'
       + '" width="500" height="281" frameborder="0"'
       + 'webkitallowfullscreen mozallowfullscreen'
       + 'allowfullscreen></iframe></div></div>'
+    return url
   }
 
   function get(url, cb) {
@@ -31,11 +32,9 @@ function app(section) {
   function getContent() {
   
     get('https://raw.githubusercontent.com/FilWisher/cooperatives/gh-pages/content/'+ section + '.md', function (d) {
-      console.log(d)
       try {
         document.querySelector("#" + section).innerHTML = marked(d, {renderer:renderer})
         var x = document.querySelector('#' + section) 
-        console.log(x)
       } catch (e) {
         window.console && console.log(e)
       }

@@ -201,6 +201,7 @@ div.content div#stories div.video {
   height: 17em;
   margin-left: 2%;
   margin-right: 18%;
+  border: 3px solid black;
 }
 
 div.content div#stories div.video iframe.video {
