@@ -232,9 +232,9 @@ div.navigation {
   padding-top: 1%;
   padding-bottom: 1%;
   flex-direction: row;
-  -webkit-flex-direction: space-around;
-  -mox-flex-direction: space-around;
-  -ms-flex-direction: space-around;
+  -webkit-flex-direction: row;
+  -mox-flex-direction: row;
+  -ms-flex-direction: row;
   justify-content: space-around;
   -webkit-justify-content: space-around;
   -mox-justify-content: space-around;
