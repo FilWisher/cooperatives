@@ -68,6 +68,7 @@ div.menu  {
 div.menu div.card {
   position: absolute;
 }
+
 div.card a[href$='news'] img {
   width: 50%;
 }
@@ -221,6 +222,7 @@ div.navigation {
   display: flex;
   width: 90%;
   padding-top: 1%;
+  padding-bottom: 1%;
   flex-direction: row;
   justify-content: space-around;
   align-items: center;
