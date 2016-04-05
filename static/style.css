@@ -73,6 +73,10 @@ div.card a[href$='news'] img {
   width: 50%;
 }
 
+div.card a[href$='about'] img {
+  width: 85%;
+}
+
 div.menu div:nth-child(1) {
   top: 5%; left: 10%;
 }
@@ -117,19 +121,16 @@ div.content.cms p {
 }
 
 div.news {
-  display: flex;
-  display: -webkit-box;
-  display: -moz-box;
-  display: -ms-flexbox;
-  display: -webkit-flex;
-  justify-content: space-around;
+  padding-top: 1em;
 }
 
 div.news div#news {
+  display: inline-block;
   overflow-y: scroll;
   max-height: 30em;
-  padding-top: 2.5%;
   padding-bottom: 2em;
+  width: 45%;
+  float: left;
 }
 
 div.news div#news p:first-child{
@@ -147,12 +148,15 @@ div.news div {
 }
 
 div.news div#feed {
+  display: inline-block;
   margin: auto;
-  padding-top: 2.5%;
+  width: 45%;
+  overflow-y: scroll;
+  float: left;
 }
 
 div#feed-container {
-  width: 60%;
+  width: 55%;
   margin: auto;
   border: 3px solid black;
 }
@@ -219,37 +223,29 @@ div.content ul.contact {
 
 div.navigation {
   background-color: inherit;
-  height: 10%;
+  height: 5em;
   clear: both;
   position: fixed;
   bottom: 0;
-  display: flex;
-  display: -webkit-box;
-  display: -moz-box;
-  display: -ms-flexbox;
-  display: -webkit-flex;
-  width: 90%;
+  left: 0;
+  right: 0;
   padding-top: 1%;
-  padding-bottom: 1%;
-  flex-direction: row;
-  -webkit-flex-direction: row;
-  -mox-flex-direction: row;
-  -ms-flex-direction: row;
-  justify-content: space-around;
-  -webkit-justify-content: space-around;
-  -mox-justify-content: space-around;
-  -ms-justify-content: space-around;
-  align-items: center;
+  text-align: center;
+  padding-bottom: 2em;
 }
 
 div.navigation div.card {
-  width: 12%;
+  width: 14%;
   max-width: 10em;
-  margin-left: 1em;
+  margin-right: 1%;
+  margin-left: 1%;
+  display: inline-block;
+  position: relative;
 }
 
-div.navigation img {
-  margin-left: 4%;
+div.navigation div.card#invisible {
+  width: 0;
+  visibility: hidden;
 }
 
 div.card a[href$='why'] img {
@@ -276,16 +272,8 @@ div.search input {
   border: 3px solid black;
 }
 
-div#search-results {
-  display: flex;
-  display: -webkit-box;
-  display: -moz-box;
-  display: -ms-flexbox;
-  display: -webkit-flex;
-  flex-flow: row wrap;
-}
-
 div.coop-item {
+  display: inline-block;
   height: 21em;
   width: 47%;
   padding: 1.5em;
