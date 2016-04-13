@@ -30,6 +30,6 @@ One paragraph of description
 
 ### Calverts Co-operative
 
-[Calverts](http://www.calverts.coop) is a communications design, print and production house in Bethnal Green, east London.  
+[Calverts](http://www.calverts.coop) is a communications design, print and production house in Bethnal Green, east London. In this video we talk to Sion Whellens about worker ownership, alternatives to precarity and exploitation in the creative industries, and the future of the co-operative movement. 
 
 > https://vimeo.com/162710674
