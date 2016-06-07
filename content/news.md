@@ -16,7 +16,7 @@ The day was a unique opportunity to begin a debate about what it means to be a c
 
 Co-ops suggest a way of working that is radically different from dominant capitalist work cultures; one that is based on economic democracy, equality, co-operation and solidarity. But being radical islands in a capitalist sea is neither easy nor is it enough. 
 
-![img](http://i.imgur.com/2dXUEAT.jpg)
+![img](http://i.imgur.com/vLvB8mn.jpg)
 
 Participants agreed that co-ops need to carry their radical ideas into mainstream debates, collaborate and expand their reach. To strengthen co-ops it is important to take serious what it means to operate within capitalism. 
 
