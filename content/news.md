@@ -7,13 +7,15 @@
 
 #### 07.06.16
 #### Cultural Co-ops Feast – Don’t Be an Island!
-![img](http://i.imgur.com/2dXUEAT.jpg)
+![img](http://i.imgur.com/r43upr5.jpg)
 
 It’s been an exciting spring for Cultural Co-ops. After launching our website and releasing two cultural co-ops videos, we gathered in London on May 20 to meet, discuss, play, think, plot, make plans and new friends. 
 
 The day was a unique opportunity to begin a debate about what it means to be a co-operative in the cultural sector and the challenges that this entails. The morning session therefore focussed on the difficulties cultural co-ops are experiencing and in the afternoon we discussed how we can work together to address them. In between session we made plenty of time for informal discussions and co-operative games inspired by the Rochdale Co-operative Pioneers.
 
 Co-ops suggest a way of working that is radically different from dominant capitalist work cultures; one that is based on economic democracy, equality, co-operation and solidarity. But being radical islands in a capitalist sea is neither easy nor is it enough. 
+
+![img](http://i.imgur.com/2dXUEAT.jpg)
 
 Participants agreed that co-ops need to carry their radical ideas into mainstream debates, collaborate and expand their reach. To strengthen co-ops it is important to take serious what it means to operate within capitalism. 
 
