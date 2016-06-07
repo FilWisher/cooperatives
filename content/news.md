@@ -7,7 +7,7 @@
 
 #### 07.06.16
 #### Cultural Co-ops Feast – Don’t Be an Island!
-[img]http://i.imgur.com/2dXUEAT.jpg[/img]
+[img](http://i.imgur.com/2dXUEAT.jpg)
 
 
 #### 05.04.16
