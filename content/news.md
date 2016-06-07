@@ -5,6 +5,11 @@
 4. Paste it like this into the post ![img](http://i.imgur.com/ZsGBONc.png)
 -->
 
+#### 07.06.16
+#### Cultural Co-ops Feast – Don’t Be an Island!
+![img](http://imgur.com/2dXUEAT)
+
+
 #### 05.04.16
 #### cultural.coop goes live!
 
