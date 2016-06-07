@@ -7,7 +7,7 @@
 
 #### 07.06.16
 #### Cultural Co-ops Feast – Don’t Be an Island!
-[img](http://i.imgur.com/2dXUEAT.jpg)
+![img](http://i.imgur.com/2dXUEAT.jpg)
 
 It’s been an exciting spring for Cultural Co-ops. After launching our website and releasing two cultural co-ops videos, we gathered in London on May 20 to meet, discuss, play, think, plot, make plans and new friends. 
 
