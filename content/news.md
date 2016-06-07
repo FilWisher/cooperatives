@@ -30,7 +30,7 @@ Radical imagination is needed in order to envision pathways towards more just, d
 
 Want to know more? The one and only Blake House Co-op have been filming the event – so watch out for the video. Coming soon!
 
-
+![img](http://i.imgur.com/iS6GAvh.jpg)
 
 #### 05.04.16
 #### cultural.coop goes live!
