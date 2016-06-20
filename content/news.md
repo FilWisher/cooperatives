@@ -5,6 +5,22 @@
 4. Paste it like this into the post ![img](http://i.imgur.com/ZsGBONc.png)
 -->
 
+#### 20.06.16
+#### Why Altgen supports cultural.coop
+
+Working in the cultural industries can damage your health. Young creatives in London will recognise this. Anxiety is rife. And no wonder: competition, image, status, long hours, rubbish pay, abuse from clients, disappointments, boredom – this is the norm for many would-be designers, photographers, artists, etc.
+
+![img](http://i.imgur.com/evy9R4r.jpg)
+
+This has got to stop. We are letting this way of working kill our youth and creativity. We need to take care of each other, and win big against all those that keep us scraping the bottom of the barrel – landlords, bankers, managers and the Conservative government.
+
+But first we've got to learn to take care of each other. Note – this is not only about “taking care of yourself”. Let's not get blinded to each other’s needs by a cloud of “mindfullness” – our problems are collective, and they require collective solutions. We need to build a culture of care and mutual support amongst young people. This means first recognising that there is something wrong about the way we work. This means not competing with each other for favour. This means covering for each other when someone is ill or down. It means asking for fair day rates and pay rises together. It means not getting into a race to the bottom when bidding for the same commission but working with each other, sharing skills and workloads, and empowering ourselves in the face of bullying clients. It means forming co-operatives and working together on supportive, equal terms. It means having each other's back. Together we are stronger!
+
+But this won't be enough by itself. We also need to claim the rights we are losing and build a better future. This means freelancers, co-operatives, and young people of all stripes getting together to change our current governments and laws: keeping our NHS public, making higher education free for all, raising the minimum wage, campaigning for a universal basic income, calling for a shorter working week and supportive social security. We have a right to a good life, but we'll have to come together to get it.
+
+Cultural.coop is a step in the right direction. For Altgen, it is about bringing together those who have chosen an alternative economic model and fostering this alternative culture of mutual support amongst young people as a new radical mainstream for people working in the cultural industries. Only by building such a culture can we come together and win.
+
+
 #### 07.06.16
 #### Cultural Co-ops Feast – Don’t Be an Island!
 
