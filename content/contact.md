@@ -2,7 +2,7 @@
 
 If you want to be part of building a movement for a co-operative future, please get in touch. Let us know if you know of a cultural co-op that should be included in our directory, or if you want to connect to other cultural co-ops or share events, resources, research, reflections and stories from the world of cultural co-ops.
 
-Join the debate on our cultural coops discussion list. Subscribe [here] (http://www.freelists.org/list/culturalcoop) 
+Join the debate on our cultural coops discussion list. Subscribe [here](http://www.freelists.org/list/culturalcoop) 
 
 Contact us on marisol.sandoval.1(@)city.ac.uk
 
