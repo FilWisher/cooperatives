@@ -38,6 +38,10 @@
 
 ### Reports and Research
 
+[Marisol Sandoval. 2016. Fighting Precarity with Co-operation? Worker Co-operatives in the Cultural Sector. In: New Formations 88, pp 51-68.](https://www.lwbooks.co.uk/sites/default/files/nf88_04sandoval.pdf)
+
+[Marisol Sandoval. 2016. What would Rosa Do? Co-operatives and Radical Politics. In: Soundings 63 pp 98-111.](https://www.lwbooks.co.uk/soundings/63/what-would-rosa-do)
+
 [Robin Murray. Co-operation in the Age of Google](https://www.uk.coop/sites/default/files/uploads/attachments/co-operation_in_the_age_of_google.pdf)
 
 [Radical Routes. 2015. How to set up a Workers’ Co-op](http://www.radicalroutes.org.uk/publicdownloads/setupaworkerscoop-lowres.pdf)
