@@ -21,7 +21,7 @@ One paragraph of description
 -->
 ### Don't be an island!
 
-A group of cultural co-ops gathered in London on May 20, 2016 to meet, discuss, play, think, plot, make plans and new friends. The day was a unique opportunity to begin a debate about what it means to be a co-operative in the cultural sector and the challenges that this entails. Get in touch if you want to get involved!
+A group of cultural co-ops gathered in London on May 20, 2016 to meet, discuss, play, think, plot, make plans and new friends. The day was a unique opportunity to begin a debate about what it means to be a co-operative in the cultural sector and the challenges that this entails. Get in touch if you want to get involved or find out about future events!
 
 > https://vimeo.com/173614670
 
