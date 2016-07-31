@@ -19,6 +19,13 @@ One paragraph of description
 
 --------------------------   ADD STORIES BELOW ---------------------------
 -->
+### Don't be an island!
+
+It’s been an exciting spring for Cultural Co-ops. After launching our website and releasing two cultural co-ops videos, we gathered in London on May 20, 2016 to meet, discuss, play, think, plot, make plans and new friends. The day was a unique opportunity to begin a debate about what it means to be a co-operative in the cultural sector and the challenges that this entails. Get in touch if you want to get involved!
+
+> https://vimeo.com/173614670
+
+---
 
 ### Ceramics Studio Co-op
 
